@@ -1,0 +1,14 @@
+# Header navigation links, in display order.
+
+main:
+  - title: "Homepage"
+    url: /
+
+  - title: "Resume"
+    url: /files/Resume-AnubhavRajoria.pdf
+
+  - title: "Projects"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: "https://anubhavrajoria.blogspot.com/"
