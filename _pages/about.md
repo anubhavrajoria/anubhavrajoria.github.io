@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img class="about-meme" align="right" width="260" src="/images/meme.png" alt="DevOps meme" />
-
 I'm a **GCP Cloud/DevOps Engineer** with **5 years of experience** in cloud computing, infrastructure as code, configuration management, security, OS patch management, automation, and production support.
 
 I work at **HCLTech** as a **Senior Analyst**. So far, I've worked with three major European banking clients, supporting highly secure development centers and infrastructure environments with stringent security, compliance, and operational requirements. ☁️🔐
@@ -41,3 +39,19 @@ I work at **HCLTech** as a **Senior Analyst**. So far, I've worked with three ma
   Credential ID: `71daf323294441c6aa1d633dfae1dfd4`
 - 🔷 **Microsoft Certified: Azure Fundamentals** — Microsoft  
   Credential ID: `7E87F56FA06D44B`
+
+## 🏆 Achievements
+
+### 🥇 Poster Exhibit Competition Winner · BITS Pilani, Hyderabad
+
+- Secured **1st Prize** at the Poster Exhibit Competition during the Campus Immersion event.
+- Presented *“From Chaos to Control: Integrating GitOps in Infrastructure as Code (IaC)”*, exploring how GitOps can improve automation, version control, and operational consistency in infrastructure management.
+
+### 🌟 HCLTech 2Good Award · Achievers League 2025
+
+- Recognized at HCLTech, Lucknow, for earning the organization’s **highest performance rating for two consecutive years**.
+- The award recognizes sustained performance, dedication, and meaningful contributions.
+
+### 🚀 McKinsey Forward Program
+
+- Selected to participate in McKinsey’s professional development program.
