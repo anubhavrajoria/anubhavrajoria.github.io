@@ -7,12 +7,14 @@
   background-color: var(--global-footer-bg-color);
   color: var(--global-text-color-light);
 
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
+  float: none;
+  left: 50%;
   margin-top: 3em;
-  width: 100%;
+  width: calc(100% - 2rem);
+  max-width: 960px;
   clear: both;
+  transform: translateX(-50%);
+  border-radius: 12px 12px 0 0;
 
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
@@ -62,6 +64,10 @@
   .page__footer {
     position: relative;
     bottom: auto;
+    left: auto;
+    margin: 2em auto 0;
+    transform: none;
+    border-radius: 12px 12px 0 0;
   }
 }
 

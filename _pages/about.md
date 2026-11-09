@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="260" src="/images/meme.png" alt="DevOps meme" />
+<img class="about-meme" align="right" width="260" src="/images/meme.png" alt="DevOps meme" />
 
 I'm a **GCP Cloud/DevOps Engineer** with **5 years of experience** in cloud computing, infrastructure as code, configuration management, security, OS patch management, automation, and production support.
 

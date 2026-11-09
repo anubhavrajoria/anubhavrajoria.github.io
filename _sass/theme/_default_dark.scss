@@ -54,3 +54,9 @@ html[data-theme="dark"] {
     --global-thead-color                : #{$background-lighter};
 }
 
+/* Remove the white paper background from the About page meme in dark mode. */
+html[data-theme="dark"] .about-meme {
+    filter: invert(1);
+    mix-blend-mode: screen;
+}
+
