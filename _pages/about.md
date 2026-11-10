@@ -14,16 +14,19 @@ I work at **HCLTech** as a **Senior Analyst**. So far, I've worked with three ma
 ## 🛠️ Technical Skills
 
 - 🖥️ **Operating systems:** Windows, Linux (RHEL, Ubuntu)
-- 📦 **Containerization:** Kubernetes, GKE
+- 📦 **Containerization:** Docker, Kubernetes, GKE
 - ☁️ **Cloud platforms:** Google Cloud Platform (GCP), Azure, AWS
 - 💰 **FinOps and cloud cost optimization:** GCP cost estimation, GCP Pricing Calculator
-- 🗄️ **Databases and SQL:** MSSQL, MySQL (basic SQL queries, stored procedures, triggers)
+- 🗄️ **Databases and SQL:** MSSQL, MySQL (SQL queries, stored procedures, triggers)
 - 🏗️ **Infrastructure as code:** Terraform, Terraform Cloud
-- 🤖 **Automation and configuration:** Ansible, AWX, YAML, Shell
-- 🔄 **DevOps and CI/CD:** Git, GitHub Enterprise, Bitbucket, Jenkins
+- 🤖 **Automation and configuration:** Ansible (AWX), YAML, Shell
+- 🔄 **DevOps and CI/CD:** Git, GitHub, Bitbucket, GitHub Actions, Jenkins
 - 🛡️ **Security and identity:** Azure Arc, Microsoft Defender for Endpoint, Microsoft Entra ID, Windows Active Directory, GCP Cloud Identity, IAM
 - 📊 **Monitoring and logging:** GCP Monitoring and Logging, Splunk
-- ✨ **Generative AI and agentic AI:** Familiar with generative AI and Agentic AI concepts and AI-assisted development tools, including ChatGPT/Codex, Microsoft Copilot, Claude/Claude Code, and MCP servers in enterprise environments
+- ✨ **Generative AI and agentic AI:** Familiarity with AI/ML concepts and Generative AI, LLM-based tools, and AI-assisted development workflows.
+  - Hands-on exposure to AI Coding agents including Open AI Codex, Claude Code, and open-source AI agent frameworks such as OpenClaw and Hermes
+  - Working knowledge of MCP (Model Context Protocol)
+  - Experience with AI-assisted data analysis and productivity workflows using ChatGPT and Claude with Microsoft Excel and Google Sheets.
 - 🎫 **IT service management and ticketing:** ServiceNow, Jira
 
 ## 🎓 Education
