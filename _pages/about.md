@@ -13,22 +13,17 @@ I work at **HCLTech** as a **Senior Analyst**. So far, I've worked with three ma
 
 ## 🛠️ Technical Skills
 
-- 🖥️ **Operating systems:** Windows, Linux (RHEL, Ubuntu)
-- 📦 **Containerization:** Docker, Kubernetes, GKE
-- ☁️ **Cloud platforms:** Google Cloud Platform (GCP), Azure, AWS
-- 💰 **FinOps and cloud cost optimization:** GCP cost estimation, GCP Pricing Calculator
-- 🗄️ **Databases and SQL:** MSSQL, MySQL (SQL queries, stored procedures, triggers)
-- 🏗️ **Infrastructure as code:** Terraform, Terraform Cloud
-- 🤖 **Automation and configuration:** Ansible (AWX), YAML, Shell
-- 🔄 **DevOps and CI/CD:** Git, GitHub, Bitbucket, GitHub Actions, Jenkins
-- 🛡️ **Security and identity:** Azure Arc, Microsoft Defender for Endpoint, Microsoft Entra ID, Windows Active Directory, GCP Cloud Identity, IAM
-- 📊 **Monitoring and logging:** GCP Monitoring and Logging, Splunk
-- ✨ **Generative AI and agentic AI:** Familiarity with AI/ML concepts and Generative AI, LLM-based tools, and AI-assisted development workflows.
-  - Hands-on exposure to AI Coding agents including Open AI Codex, Claude Code, and open-source AI agent frameworks such as OpenClaw and Hermes
-  - Working knowledge of MCP (Model Context Protocol)
-  - Experience with AI-assisted data analysis and productivity workflows using ChatGPT and Claude with Microsoft Excel and Google Sheets.
-- 🎫 **IT service management and ticketing:** ServiceNow, Jira
-
+- ☁️ **Cloud platforms:** Google Cloud Platform (Compute Engine, GKE, Cloud Storage, Cloud SQL, Shared VPC, Cloud NAT, BigQuery, IAM, Pub/Sub, Cloud Logging & Monitoring, IAP, `gcloud`, FinOps); Microsoft Azure (Microsoft Entra ID, Azure infrastructure, Azure Arc, Azure CLI); AWS.
+- 📦 **Containers & orchestration:** Docker, Docker Swarm, Kubernetes, Google Kubernetes Engine (GKE).
+- ⚙️ **Infrastructure as code & automation:** Terraform, Terraform Cloud, Ansible, Ansible AWX, HCL, YAML, Jinja2, Bash and shell scripting, `gcloud` CLI, declarative infrastructure.
+- 🔄 **DevOps, GitOps & CI/CD:** Git, GitHub Enterprise, GitHub Actions, Bitbucket, Jenkins, CI/CD pipelines, identity federation (IdP–SP).
+- 🔐 **Security, identity & SecOps:** Google Cloud IAM, custom IAM roles, least-privilege access, Microsoft Entra ID, Cloud Identity, Windows Active Directory, Microsoft Defender for Endpoint (MDE), Azure Arc, Windows and Linux patch management, vulnerability remediation.
+- 📊 **Monitoring, logging & observability:** Splunk Enterprise (SPL, dashboards, alerts), GCP Cloud Monitoring, Cloud Logging, Cloud Audit Logs, Log Router sinks.
+- 💰 **FinOps & cloud cost optimization:** GCP cost estimation and Pricing Calculator, resource right-sizing, idle disk/IP cleanup, budget alerts, pre-migration cloud expenditure estimation.
+- 💻 **Operating systems & databases:** Linux (RHEL, Ubuntu), Windows Server, SQL queries, stored procedures, triggers.
+- 🛠️ **IT service management & operations:** Incident and change management, root cause analysis (RCA), disaster recovery (DR) drills, ServiceNow, Jira, Confluence, draw.io.
+- 🤖 **Generative AI & AI-assisted development:** AI/ML concepts, generative AI, LLMs, coding agents (OpenAI Codex, Claude Code), open-source agent frameworks (OpenClaw, Hermes), Model Context Protocol (MCP), and AI-assisted analysis and productivity workflows with ChatGPT and Claude in Excel and Google Sheets.
+- 📋 **Methods & productivity:** Agile (Scrum/Kanban), Microsoft Office, Google Workspace.
 ## 🎓 Education
 
 - 🏛️ **BITS Pilani Work Integrated Learning Programmes**, Hyderabad  
