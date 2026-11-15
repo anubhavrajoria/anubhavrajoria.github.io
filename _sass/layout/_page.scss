@@ -23,6 +23,14 @@
     @include suffix(2 of 12);
   }
 
+  // On wide screens, use the unused space to the right of the content while
+  // keeping its left edge and the profile sidebar in place.
+  @include breakpoint($x-large) {
+    @include span(12 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(0 of 12);
+  }
+
   .page__inner-wrap {
     @include full();
 

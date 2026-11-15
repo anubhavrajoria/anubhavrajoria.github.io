@@ -6,6 +6,7 @@ main:
 
   - title: "Resume"
     url: /files/Resume-AnubhavRajoria.pdf
+    target: _blank
 
   - title: "Projects"
     url: /portfolio/
